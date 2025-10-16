@@ -522,12 +522,19 @@ administration.html
 '''
 
 ## OUTPUT:
-![alt text](<Screenshot 2025-10-09 131319.png>) 
-![alt text](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9d79d40c-b0ad-4a0a-9158-06fd872aeba4" />) 
-![alt text](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0cb4c8cc-c695-4251-bdf6-7dc501e43346" />) 
-![alt text](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e73bbd7c-1cc9-4909-a2f3-00956012f4ae" />) 
-![alt text](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fc001961-d2d0-4603-b4bf-846cdc851390" />) 
-![alt text](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9277b5a2-0875-4909-aa81-476c24373362" />)
+
+![alt text](<img width="1920" height="1080" alt="Screenshot 2025-10-09 131319" src="https://github.com/user-attachments/assets/5c919110-3cfa-4f0d-866a-d4bde00ef601" />
+<>) 
+![alt text](<img width="1920" height="1080" alt="Screenshot 2025-10-09 131340" src="https://github.com/user-attachments/assets/f0f4593c-df14-484c-917b-6dd2fbbd6777" />
+<>) 
+![alt text](<><img width="1920" height="1080" alt="Screenshot 2025-10-09 131513" src="https://github.com/user-attachments/assets/051cf21c-0594-46b6-8d91-7039dfbec05e" />
+) 
+![alt text](<img width="1920" height="1080" alt="Screenshot 2025-10-09 131529" src="https://github.com/user-attachments/assets/96f6f34c-d4a1-4f58-add9-9b5682187859" />
+<>) 
+![alt text<img width="1920" height="1080" alt="Screenshot 2025-10-09 131543" src="https://github.com/user-attachments/assets/d8c7107f-671d-4663-b194-1c2a436e8cfa" />
+](<>) 
+![alt text](<<img width="1920" height="1080" alt="Screenshot 2025-10-09 131558" src="https://github.com/user-attachments/assets/f125fe34-caab-4ab2-ad54-759d5e42477c" />
+>)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
