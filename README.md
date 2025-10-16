@@ -522,7 +522,7 @@ administration.html
 '''
 
 ## OUTPUT:
-![alt text](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/570d073e-75d5-421c-9b00-fd871427048e" />) 
+![alt text](<name/Screenshot 2025-10-09 131319.png>) 
 ![alt text](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9d79d40c-b0ad-4a0a-9158-06fd872aeba4" />) 
 ![alt text](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0cb4c8cc-c695-4251-bdf6-7dc501e43346" />) 
 ![alt text](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e73bbd7c-1cc9-4909-a2f3-00956012f4ae" />) 
