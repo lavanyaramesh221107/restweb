@@ -522,12 +522,12 @@ administration.html
 '''
 
 ## OUTPUT:
-![alt text](<name/Screenshot 2025-10-09 131319.png>) 
-![alt text](<name/Screenshot 2025-10-09 131340.png>) 
-![alt text](<name/Screenshot 2025-10-09 131513.png>) 
-![alt text](<name/Screenshot 2025-10-09 131529.png>) 
-![alt text](<name/Screenshot 2025-10-09 131543.png>) 
-![alt text](<name/Screenshot 2025-10-09 131558.png>)
+![alt text](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/570d073e-75d5-421c-9b00-fd871427048e" />) 
+![alt text](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9d79d40c-b0ad-4a0a-9158-06fd872aeba4" />) 
+![alt text](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0cb4c8cc-c695-4251-bdf6-7dc501e43346" />) 
+![alt text](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e73bbd7c-1cc9-4909-a2f3-00956012f4ae" />) 
+![alt text](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fc001961-d2d0-4603-b4bf-846cdc851390" />) 
+![alt text](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9277b5a2-0875-4909-aa81-476c24373362" />)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
